@@ -1,0 +1,1411 @@
+5000,Riverdale,,,40,no,30735,NULL
+5001,Riverdale,,,40,no,30735,NULL
+5002,Riverdale,,,40,no,41940,NULL
+5003,Riverdale,,,40,no,41120,NULL
+5004,Riverdale,,,40,no,41120,NULL
+5005,South Ogden,,,35,no,8900,NULL
+5006,Ogden/South Ogden,,,40,no,26085,NULL
+5007,South Ogden,,,40,no,30735,NULL
+5008,Riverdale,,,35,no,30735,NULL
+5009,Riverdale,,,35,no,30735,NULL
+5010,Ogden,,,40,no,23580,NULL
+5011,Ogden,,,40,yes,21255,NULL
+5012,Ogden/South Ogden,,,40,no,16195,NULL
+5013,Ogden,,,35,no,26835,NULL
+5014,Ogden,,,40,no,27355,NULL
+5015,Ogden,,,40,no,27355,NULL
+5016,Ogden,,,40,no,23580,NULL
+5017,Ogden,,,35,no,26835,NULL
+5018,Ogden,,,35,no,26835,NULL
+5019,Ogden,,,35,no,26835,NULL
+5020,Riverdale,,,40,no,30735,NULL
+5021,Ogden,,,35,no,14430,NULL
+5022,Ogden,x,,35,no,14430,NULL
+5023,Ogden,x,,35,no,14430,NULL
+5024,Ogden,x,,35,no,26835,NULL
+5025,Ogden,,,45,yes,16725,NULL
+5026,Riverdale/Roy,,,45,no,41120,NULL
+5027,Ogden,,,35,no,26835,NULL
+5028,Ogden,,,35,no,28335,NULL
+5029,Ogden,,,35,no,28335,NULL
+5030,Ogden,,,40,yes,28355,NULL
+5031,Ogden,,,40,no,28355,NULL
+5032,Ogden,,,40,no,28355,NULL
+5033,West Haven,,,50,no,18660,NULL
+5034,Sunset,,,45,no,21380,NULL
+5035,Ogden/Harrisville,,,45,no,8800,NULL
+5036,Layton,,,55,,,NULL
+5037,North Ogden,,,50,no,21230,NULL
+5038,Ogden,,,20,,,NULL
+5039,Ogden,,,35,no,7935,NULL
+5040,Ogden,,,50,no,28960,NULL
+5041,Ogden,,,50,no,28960,NULL
+5042,Ogden,,,40,yes,30885,NULL
+5043,Ogden,,,40,no,22430,NULL
+5044,Ogden,,,40,no,22430,NULL
+5045,Ogden,,,45,no,22905,NULL
+5046,Ogden,,,40,no,24305,NULL
+5047,Ogden,,,40,no,24305,NULL
+5048,Ogden,,,40,no,24305,NULL
+5049,Ogden,,,40,no,26585,NULL
+5050,Ogden,,,40,no,26585,NULL
+5051,Ogden,,,40,no,26365,NULL
+5052,Ogden,,,40,no,26365,NULL
+5053,Ogden,,,40,no,32440,NULL
+5054,Ogden,,,40,no,32440,NULL
+5055,Ogden,,,40,no,32440,NULL
+5056,Ogden,,,40,no,32440,NULL
+5057,Ogden/South Ogden,,,50,no,31835,NULL
+5058,Ogden,,,30,no,14760,NULL
+5059,Ogden/Harrisville,,,50,no,23590,NULL
+5060,North Ogden/Weber County,,,50,no,22830,NULL
+5061,North Ogden,,,50,no,22410,NULL
+5062,North Ogden,,,50,no,22410,NULL
+5063,Ogden,,,40,no,17115,NULL
+5064,Ogden,,,40,no,22095,NULL
+5066,Ogden,,,40,no,20960,NULL
+5067,Ogden,,,35,no,10140,NULL
+5068,Ogden,,,30,no,8405,NULL
+5069,Ogden,,,35,no,10140,NULL
+5070,Ogden,,,30,no,8405,NULL
+5071,Ogden,,,40,no,20960,NULL
+5072,Ogden,,,40,no,20960,NULL
+5073,Ogden,x,,40,yes,26085,NULL
+5074,Ogden/South Ogden,,,40,yes,24105,NULL
+5075,South Ogden,,,40,no,24105,NULL
+5076,South Weber,,,45,no,,NULL
+5077,South Ogden/Washington Terrace,,,50,,24105,NULL
+5078,South Ogden/Washington Terrace,,,50,no,24105,NULL
+5079,South Ogden/Washington Terrace,,,50,no,24105,NULL
+5080,South Ogden/Washington Terrace,,,50,no,23090,NULL
+5081,South Ogden,,,50,no,23090,NULL
+5082,South Ogden,,,55,no,23090,NULL
+5083,South Ogden,,,55,no,23090,NULL
+5084,Roy,,,45,no,36620,NULL
+5085,Roy,,,35,no,30915,NULL
+5086,Roy,,,35,no,30915,NULL
+5087,Roy,,,45,no,36620,NULL
+5088,Roy,,,45,yes,23900,NULL
+5089,Roy,,,45,no,23900,NULL
+5090,Sunset,,,45,no,23900,NULL
+5091,Sunset,,,45,no,23900,NULL
+5092,Roy,,,45,no,36620,NULL
+5093,Roy,,,45,no,23220,NULL
+5094,Roy,,,45,no,23220,NULL
+5095,Roy,,,45,no,21570,NULL
+5096,Roy/Weber County,,,50,no,20730,NULL
+5097,Roy/West Haven/Weber County,,,55,yes,22015,NULL
+5098,Ogden/West Haven,,,55,no,22015,NULL
+5099,Layton,,,40,no,19890,NULL
+5100,Layton,,,40,no,39575,NULL
+5101,Layton,,,40,no,39575,NULL
+5103,Layton,,,40,no,24780,NULL
+5104,Layton,,,40,yes,21805,NULL
+5105,Layton,,,40,no,40715,NULL
+5106,Layton,,,45,no,21805,NULL
+5107,Layton,,,55,no,,NULL
+5108,Layton,,,45,,23260,NULL
+5109,Layton,,,45,no,22235,NULL
+5110,Layton/Hill AFB,,,50,no,34470,NULL
+5111,Clearfield,,,45,yes,31325,NULL
+5112,Clearfield,,,45,no,31860,NULL
+5113,Clearfield,,,45,no,31860,NULL
+5114,Layton,,,45,no,40715,NULL
+5115,Layton,,,45,yes,40715,NULL
+5116,Layton,,,45,no,40715,NULL
+5117,Clearfield,,,40,no,20700,NULL
+5118,Clearfield,,,35,no,20700,NULL
+5119,Clearfield,,,45,yes,15525,NULL
+5120,Clearfield/Sunset,,,45,no,26380,NULL
+5121,Clearfield,,,40,no,15630,NULL
+5122,Clearfield,,,40,no,15630,NULL
+5123,Clearfield,,,45,no,26380,NULL
+5124,Layton,,,45,no,23475,NULL
+5125,Clearfield,,,40,no,20700,NULL
+5127,Syracuse/Clearfield,,,45,no,31860,NULL
+5128,Marriott-Slaterville,,,55,no,15820,NULL
+5129,Clearfield,,,40,no,20700,NULL
+5130,West Haven,,x,55,no,22015,NULL
+5131,Ogden,,,40,no,31835,NULL
+5132,Clearfield,,,35,no,17970,NULL
+5133,Ogden,,,40,no,31835,NULL
+5134,Clearfield,,,50,no,25885,NULL
+5135,Clearfield,,,35,no,17970,NULL
+5137,Ogden,,,45,no,22455,NULL
+5138,Roy,,,35,no,22795,NULL
+5139,Harrisville,,,45,no,17945,NULL
+5140,Layton,,,45,no,21805,NULL
+5141,Ogden,,,40,no,15900,NULL
+5142,Ogden/Harrisville,,,50,no,28055,NULL
+5143,West Haven,,,50,no,18660,NULL
+5144,Roy,,,50,no,13050,NULL
+5145,West Haven,,,50,no,12330,NULL
+5146,Roy,,,45,no,17965,NULL
+5147,Roy,,,45,no,18005,NULL
+5148,Roy,,,35,no,16715,NULL
+5149,Ogden/Marriott-Slaterville,,,50,no,30885,NULL
+5150,Layton,,,40,no,12710,NULL
+5151,Layton,,,55,no,28715,NULL
+5152,Ogden,,,40,no,31835,NULL
+5153,Layton,,,35,no,13135,NULL
+5154,West Haven,,,50,no,13050,NULL
+5155,Layton,,,55,no,24660,NULL
+5156,Layton,,,55,no,24660,NULL
+5157,Ogden,,,45,no,19875,NULL
+5158,Layton,,,35,no,24660,NULL
+5159,Marriott-Slaterville,,,50,no,26915,NULL
+5160,Clearfield,,,50,no,25885,NULL
+5161,Clearfield,,,50,no,34470,NULL
+5164,Layton,,,35,no,13135,NULL
+5165,West Point,,,45,no,10860,NULL
+5166,Roy,,,45,no,17965,NULL
+5167,Kaysville,,,40,no,,NULL
+5168,Ogden,,,45,no,18015,NULL
+5169,South Ogden,,,50,no,31835,NULL
+5170,Kaysville,,,35,yes,21820,NULL
+5171,Kaysville,,,40,,21820,NULL
+5172,Kaysville,,,40,no,21820,NULL
+5173,Kaysville,,,40,no,14625,NULL
+5174,Kaysville/Fruit Heights,,,45,no,14010,NULL
+5176,Marriott-Slaterville,,,50,no,15720,NULL
+5177,Kaysville,,,40,no,14010,NULL
+5178,South Ogden/Washington Terrace,,,50,no,24105,NULL
+5179,South Ogden,,,55,no,36435,NULL
+5180,Ogden,,,45,no,22455,NULL
+5181,Ogden,,,45,no,22455,NULL
+5182,Marriott-Slaterville,,,50,no,30885,NULL
+5183,Ogden,,,55,yes,18015,NULL
+5184,Ogden,,,40,no,15900,NULL
+5185,Layton,,,40,no,23475,NULL
+5186,Clinton/West Point,,,45,no,15455,NULL
+5187,Clinton,,,45,no,15455,NULL
+5188,Clinton,,,40,no,13810,NULL
+5189,Clinton,,,45,no,18005,NULL
+5190,Clinton,,,45,no,18005,NULL
+5191,Syracuse,,,45,no,14325,NULL
+5192,West Point,,,40,no,1865,NULL
+5193,Layton,,,40,no,20190,NULL
+5194,Layton,,,40,no,20190,NULL
+5195,Ogden/Harrisville,,,50,no,19445,NULL
+5196,Ogden,,,50,no,30885,NULL
+5197,Sunset,,,30,no,13810,NULL
+5198,Clinton,,,40,no,12925,NULL
+5200,Farmington,,,45,no,5960,NULL
+5201,Farmington,,,45,no,5960,NULL
+5202,Farmington,,,45,no,5960,NULL
+5203,Farmington,,,45,no,5535,NULL
+5204,Farmington,,,35,no,9405,NULL
+5205,Farmington,,,35,no,9405,NULL
+5206,Farmington/Fruit Heights,,,45,no,11705,NULL
+5207,Farmington,,,45,no,11705,NULL
+5209,Farmington,,,40,no,9405,NULL
+5210,Farmington,,,35,no,11405,NULL
+5211,Farmington,,,40,no,8010,NULL
+5212,Farmington,,,45,no,5535,NULL
+5213,Farmington,,,40,no,11405,NULL
+5214,Kaysville,,,40,no,21820,NULL
+5215,Kaysville,,,40,no,14625,NULL
+5216,Kaysville/Fruit Heights,,,45,no,,NULL
+5217,Farmington,,,45,no,,NULL
+5218,West Haven,,,50,no,8855,NULL
+5219,West Haven,,,50,no,8855,NULL
+5220,Syracuse,,,50,no,,NULL
+5221,Syracuse,,,50,no,10345,NULL
+5222,Clearfield/Syracuse,,,50,,3500,NULL
+5223,Clearfield,,,50,,8765,NULL
+5224,Clearfield,,,40,no,8765,NULL
+5225,Syracuse,,,45,no,,NULL
+5226,Roy/Hooper,,,40,,,NULL
+5227,Marriott-Slaterville,,,35,no,,NULL
+5228,Syracuse,,,50,no,,NULL
+5229,Clearfield,,,50,no,,NULL
+5230,Clinton,,,45,no,,NULL
+5231,Bountiful,,,35,,19840,NULL
+5232,Layton,,,40,,23000,NULL
+5233,Hyrum,,,45,,5100,NULL
+5234,Clearfield/Syracuse,,,45,,37000,NULL
+5235,Ogden,,,,,,NULL
+5240,Ogden,,,,,,NULL
+5241,Riverdale,,,,no,,NULL
+5242,Clearfield,,,,,,NULL
+5243,Clearfield,,,,,,NULL
+5250,Ogden,,,40,,,NULL
+5256,Bountiful/North Salt Lake,,,45,,,NULL
+5258,Roy,,,40,,,NULL
+5259,Clearfield,,,45,,,NULL
+5260,Syracuse,,,45,,,NULL
+5261,Ogden/Harrisville,,,45,,27000,NULL
+5262,West Point,,,,,,NULL
+5263,Ogden,,,40,,25000,NULL
+5264,Centerville,,,40,,17000,NULL
+5266,Centerville,,,,,,NULL
+5267,Roy,,,,,,NULL
+5268,Ogden,,,,,,NULL
+5269,Clinton,,,,,,NULL
+5270,Bountiful/West Bountiful,,,40,no,,NULL
+5271,Roy,,,,,,NULL
+5280,Willard,,,55,no,,NULL
+5289,Cache County/Logan,,,50,yes,,NULL
+5290,Cache County/Smithfield,,,55,no,37000,NULL
+5291,Logan,,,50,no,17000,NULL
+5292,Cache County,,,,no,,NULL
+5293,North Logan/Hyde Park,,,55,no,,NULL
+5294,North Logan/Logan,,,45,no,,NULL
+5295,Logan/Cache County,,,55,no,,NULL
+5297,Logan/Providence,,,55,no,18980,NULL
+5298,Nibley,,,45,no,,NULL
+5299,Richmond,,,45,no,12585,NULL
+5300,Logan,,,45,no,37390,NULL
+5301,Logan,,,35,no,37390,NULL
+5302,Logan,x,,35,no,35045,NULL
+5303,Logan,x,,35,no,35045,NULL
+5304,Logan,x,,35,no,35045,NULL
+5305,Logan,x,,35,no,36455,NULL
+5306,Logan,x,,35,no,36455,NULL
+5307,Logan,,,35,no,30770,NULL
+5308,Logan,,,35,no,30770,NULL
+5309,Logan,,,35,no,30770,NULL
+5310,Logan,,,35,no,30770,NULL
+5311,Logan,,,40,no,30770,NULL
+5312,Logan,x,,40,no,15860,NULL
+5313,Logan,,,40,no,15860,NULL
+5314,Logan,,,40,no,15860,NULL
+5315,Logan,,,30,no,14830,NULL
+5316,Logan,,,40,no,15680,NULL
+5317,Logan,,,40,no,15680,NULL
+5318,Logan,,,30,,11990,NULL
+5319,Logan,,,30,no,11990,NULL
+5320,Logan,,,45,no,15680,NULL
+5321,Logan,,,45,no,28245,NULL
+5322,Logan,,,55,no,28245,NULL
+5323,North Logan,,,55,no,31465,NULL
+5324,Hyde Park,,,55,no,31465,NULL
+5325,Smithfield,,,45,no,26125,NULL
+5326,Smithfield,,,45,no,26125,NULL
+5327,Smithfield,,,45,no,26125,NULL
+5328,Logan,,,55,no,,NULL
+5329,Logan,,,30,no,9555,NULL
+5330,Logan,,,55,no,20090,NULL
+5331,Logan,,,55,no,18540,NULL
+5332,Logan/Providence,,,45,no,20565,NULL
+5333,Nibley,,,45,no,14055,NULL
+5334,Brigham City,,,35,no,16245,NULL
+5335,Brigham City,,,35,no,13810,NULL
+5336,Brigham City,,,35,no,12900,NULL
+5337,Brigham City,,,35,no,16245,NULL
+5338,Brigham City,,,35,no,16245,NULL
+5339,Brigham City,,,35,no,13810,NULL
+5340,Brigham City,,,55,no,19920,NULL
+5341,Hyrum,,,55,no,9525,NULL
+5342,Wellsville,,,60,no,20625,NULL
+5343,North Salt Lake,,,55,no,9050,NULL
+5344,Woods Cross/North Salt Lake,,,55,no,9050,NULL
+5345,North Salt Lake,,,55,no,12420,NULL
+5346,Woods Cross/North Salt Lake,,,35,no,26790,NULL
+5347,Woods Cross/North Salt Lake,,,35,no,26790,NULL
+5348,Woods Cross/North Salt Lake,,,35,no,26790,NULL
+5349,Woods Cross/North Salt Lake/Bountiful,,,45,no,26790,NULL
+5350,Bountiful/West Bountiful,,,35,no,9000,NULL
+5352,Centerville,,,35,yes,15870,NULL
+5353,Centerville,,,35,no,15870,NULL
+5354,Centerville,,,35,no,15870,NULL
+5355,Centerville,,,35,no,15870,NULL
+5356,Centerville,,,40,no,15870,NULL
+5357,Centerville,,,40,no,6395,NULL
+5358,North Salt Lake,,,45,no,35220,NULL
+5359,North Salt Lake,,,45,no,23825,NULL
+5360,North Salt Lake/Davis County,,,45,no,16690,NULL
+5361,Bountiful,,,40,no,14905,NULL
+5362,Bountiful,,,40,no,21990,NULL
+5363,Bountiful/West Bountiful,,,40,no,16510,NULL
+5364,Bountiful,,,35,no,16510,NULL
+5365,Bountiful,,,40,no,11200,NULL
+5366,Bountiful,,,40,no,12850,NULL
+5367,Centerville/Bountiful,,,40,no,12850,NULL
+5368,Bountiful/West Bountiful,,,40,no,15545,NULL
+5369,Uintah,,,55,,47370,NULL
+5370,Farr West,,,55,no,6955,NULL
+5371,Farr West,,,55,no,8550,NULL
+5372,Pleasant View,,,55,no,22905,NULL
+5373,Marriott-Slaterville,,,50,no,6955,NULL
+5374,Harrisville,,,55,no,13020,NULL
+5375,Woods Cross,,,45,no,9050,NULL
+5376,Uintah,,,55,no,39005,NULL
+5377,Brigham City,,,55,no,19975,NULL
+5378,Woods Cross,,,55,no,9050,NULL
+5380,North Salt Lake/Davis County,,,50,,11365,NULL
+5381,North Salt Lake,,,50,no,12420,NULL
+5383,Brigham City/Perry,,,30,,17685,NULL
+5384,South Ogden,,,55,,23090,NULL
+5385,Bountiful,,,40,no,14355,NULL
+5386,Bountiful,,,40,,14355,NULL
+5387,West Bountiful,,,45,,9355,NULL
+5388,Davis County,,,40,no,5600,NULL
+5389,Centerville,,,35,no,,NULL
+5390,South Ogden,,,50,no,28610,NULL
+5393,Syracuse,,,40,no,24890,NULL
+5394,Syracuse/Davis County,,,45,no,,NULL
+5395,Garden City,,,50,no,,NULL
+5396,South Ogden,,,55,no,39005,NULL
+5397,Pleasant View/Weber County,,,45,no,22905,NULL
+5398,Farr West,,,45,no,3885,NULL
+5399,Harrisville/Pleasant View,,,55,no,13020,NULL
+5400,Farr West,,,45,,20295,NULL
+5401,Pleasant View,,,55,no,14550,NULL
+5402,Weber County,,,,no,,NULL
+5403,Pleasant View/Farr West,,,25,no,23000,NULL
+5404,Box Elder County,,,,no,,NULL
+5420,Tremonton,,,40,no,6225,NULL
+5421,Tremonton,,,30,no,6225,NULL
+5422,Tremonton,,,40,no,7360,NULL
+5423,Garland,,,40,,4955,NULL
+6000,Spanish Fork,,,40,no,25055,NULL
+6001,Spanish Fork,,,30,no,25640,NULL
+6002,Spanish Fork,,,30,no,25640,NULL
+6003,Spanish Fork,,,35,no,27285,NULL
+6004,Spanish Fork,,,30,no,27285,NULL
+6005,Spanish Fork,,,30,,25180,NULL
+6006,Spanish Fork,,,30,,25180,NULL
+6007,Saratoga Springs,,,50,,,NULL
+6008,Lehi,,,40,,21100,NULL
+6009,Lehi,,,40,no,21100,NULL
+6010,Lehi,,,40,no,23365,NULL
+6011,Lehi,,,40,no,23365,NULL
+6012,Lehi,,,40,no,23365,NULL
+6013,Lehi,,,40,no,,NULL
+6014,Saratoga Springs,,,50,no,,NULL
+6015,Lindon,,,,yes,,NULL
+6016,American Fork,,,35,no,,NULL
+6017,Lehi,,,45,no,15085,NULL
+6018,Lehi,,,50,no,23215,NULL
+6019,Highland,,,45,no,13475,NULL
+6020,Lehi,,,45,no,24710,NULL
+6021,American Fork,,,45,no,24710,NULL
+6022,American Fork,,,35,no,26880,NULL
+6023,American Fork,,,35,no,32020,NULL
+6024,American Fork,x,,30,no,22780,NULL
+6025,American Fork,,,30,no,28610,NULL
+6026,American Fork,,,45,no,28610,NULL
+6027,American Fork,,,35,no,23670,NULL
+6028,American Fork/Pleasant Grove,,,45,no,23670,NULL
+6029,American Fork,x,x,30,no,17290,NULL
+6030,American Fork,,,30,no,18455,NULL
+6031,American Fork,,,45,yes,17995,NULL
+6032,Lehi/Utah County,,,50,no,20755,NULL
+6033,American Fork,,,35,no,32020,NULL
+6034,American Fork,,,35,no,32020,NULL
+6035,Lehi,,,45,no,24500,NULL
+6036,Lehi,,,50,no,20755,NULL
+6037,Lehi,,,50,no,20755,NULL
+6038,Lehi,,,50,no,20755,NULL
+6039,Saratoga Springs,,,50,yes,20755,NULL
+6040,Spanish Fork,,,50,no,25905,NULL
+6041,Spanish Fork,,,50,no,25905,NULL
+6042,Spanish Fork,,,50,no,23730,NULL
+6043,Spanish Fork,,x,60,no,18295,NULL
+6044,Spanish Fork,,,30,no,25180,NULL
+6045,Spanish Fork,,,60,no,18295,NULL
+6046,Spanish Fork,,,40,no,8855,NULL
+6047,Spanish Fork,,,45,no,22295,NULL
+6048,American Fork,,,35,no,17995,NULL
+6049,American Fork,,,35,no,17995,NULL
+6050,Springville,,,40,no,10315,NULL
+6051,Springville,,,40,no,25400,NULL
+6052,Springville,,,45,,10315,NULL
+6053,Springville,,,45,no,10315,NULL
+6054,Springville,,,40,,29660,NULL
+6055,Springville,,,55,no,24420,NULL
+6056,Spanish Fork,,,40,no,8855,NULL
+6057,Lindon,,x,50,no,16400,NULL
+6058,Lindon,,x,50,no,16400,NULL
+6059,Springville,,,45,no,29660,NULL
+6060,Spanish Fork,,,45,no,,NULL
+6061,Lehi,,,45,no,15085,NULL
+6062,Cedar Hills,,,45,no,,NULL
+6063,Lehi,,,40,no,18005,NULL
+6064,Lehi,,,40,,17795,NULL
+6065,Lehi,,x,45,no,12415,NULL
+6066,Lehi,,,45,no,13570,NULL
+6067,Lehi,,,45,no,13570,NULL
+6068,Springville,,,40,no,29660,NULL
+6069,Springville,,,35,no,20135,NULL
+6070,Springville,,,30,no,19085,NULL
+6071,Springville,,,30,,25400,NULL
+6072,Springville,,,40,yes,,NULL
+6073,American Fork,,,35,no,14385,NULL
+6074,American Fork,,,35,no,22780,NULL
+6075,Spanish Fork,,,45,no,7210,NULL
+6076,Spanish Fork,,,40,no,22295,NULL
+6077,Spanish Fork,,,50,no,25905,NULL
+6078,Saratoga Springs,,,45,no,9110,NULL
+6079,Saratoga Springs,,,50,no,,NULL
+6080,Saratoga Springs,,,45,no,20020,NULL
+6081,Saratoga Springs,,,45,no,20020,NULL
+6082,Saratoga Springs,,,45,no,20020,NULL
+6084,Saratoga Springs,,,45,no,20020,NULL
+6085,Saratoga Springs,,,45,no,20020,NULL
+6086,Saratoga Springs,,,45,no,20020,NULL
+6087,Saratoga Springs,,,45,no,9110,NULL
+6088,Lehi,,,40,,18005,NULL
+6089,Lehi,,,40,no,18005,NULL
+6090,Lehi,,,45,no,23365,NULL
+6091,Lehi,,,55,no,20820,NULL
+6092,Lehi,,,55,no,20820,NULL
+6093,Lehi,,,55,no,20820,NULL
+6094,Highland,,,55,no,21675,NULL
+6095,Highland,,,55,no,21675,NULL
+6096,Highland,,,50,no,,NULL
+6097,Alpine,,,45,no,18225,NULL
+6098,Alpine,,,45,no,15785,NULL
+6099,Saratoga Springs,,,45,,9110,NULL
+6100,Wasatch County,,,55,,19045,NULL
+6101,Heber,,,35,,21735,NULL
+6102,Heber,,,35,no,21735,NULL
+6103,Heber,,,35,no,21735,NULL
+6104,Heber,,,35,,24125,NULL
+6105,Heber,,,45,,24125,NULL
+6106,Heber,,,45,no,11860,NULL
+6108,Heber,,,35,no,,NULL
+6109,Mapleton/Springville,,,50,no,,NULL
+6110,Mapleton,,,50,no,7810,NULL
+6111,Mapleton,,,50,no,11460,NULL
+6112,Spanish Fork,,,45,no,,NULL
+6113,Spanish Fork,,,,no,,NULL
+6114,Salem,,,50,no,15065,NULL
+6115,Salem,,,40,no,12815,NULL
+6116,Salem,,,40,no,12815,NULL
+6117,Naples,,,45,no,12950,NULL
+6118,Naples,,,45,no,27830,NULL
+6119,Naples,,,45,no,12950,NULL
+6120,Vernal,,,40,no,9570,NULL
+6121,Vernal,,,35,no,8085,NULL
+6122,Vernal,,,35,no,21420,NULL
+6123,Vernal,,,30,no,21420,NULL
+6124,Vernal,,,30,no,21420,NULL
+6125,Vernal,,,30,no,27830,NULL
+6126,Vernal,x,,35,no,27830,NULL
+6127,Vernal,,,35,no,21420,NULL
+6128,Vernal,,,45,no,10090,NULL
+6129,Duchesne,,,30,no,9045,NULL
+6130,Pleasant Grove,,,35,no,28905,NULL
+6131,Pleasant Grove,,,45,no,28765,NULL
+6132,Pleasant Grove,,,45,no,28905,NULL
+6133,Lindon/Pleasant Grove,,,40,no,28765,NULL
+6134,Pleasant Grove,,,45,no,21395,NULL
+6135,Pleasant Grove,,,35,no,28905,NULL
+6137,Lindon,,,40,,35130,NULL
+6138,Pleasant Grove,,,40,,11590,NULL
+6139,Pleasant Grove,,,40,,28765,NULL
+6141,Lindon,,,40,no,28765,NULL
+6142,Pleasant Grove,,,40,no,28765,NULL
+6145,Saratoga Springs,,,45,no,18560,NULL
+6146,Eagle Mountain,,,55,,19065,NULL
+6147,Lindon,,,40,,,NULL
+6148,Vernal/Uintah County,,,40,,,NULL
+6149,Eagle Mountain,,,55,,,NULL
+6150,Maeser,,,45,,7160,NULL
+6151,Maeser,,,45,,7160,NULL
+6152,Maeser,,,45,,7160,NULL
+6153,Vernal,,,30,no,,NULL
+6154,Uintah County,,,45,no,,NULL
+6155,Vineyard,,,45,no,,NULL
+6156,Springville,,,45,no,,NULL
+6157,Springville,,,50,no,,NULL
+6158,Springville,,,50,no,,NULL
+6159,Payson,,,35,no,,NULL
+6160,Payson,,,35,no,11795,NULL
+6161,Payson,,,35,,13340,NULL
+6162,Payson,,,35,,2810,NULL
+6163,Payson,,,30,no,13340,NULL
+6164,Payson,,,35,no,11795,NULL
+6165,Payson,,,30,no,13340,NULL
+6166,Payson,,,40,,16465,NULL
+6167,Payson,,,45,,16465,NULL
+6168,Payson,,,45,no,,NULL
+6169,Utah County,,,45,,,NULL
+6170,Santaquin,,,35,no,5285,NULL
+6171,Santaquin,,,35,no,16125,NULL
+6172,Santaquin,,,35,,16125,NULL
+6173,Santaquin,,,35,no,,NULL
+6175,American Fork/Pleasant Grove,,,40,,12425,NULL
+6176,American Fork,,,40,,,NULL
+6177,American Fork,,,40,,10900,NULL
+6178,American Fork,,,40,,10900,NULL
+6179,American Fork,,,45,,,NULL
+6180,Cedar Hills/Highland,,,40,,8970,NULL
+6181,American Fork/Highland,,,45,,,NULL
+6182,American Fork,,,45,no,,NULL
+6183,American Fork/Highland,,,25,,,NULL
+6184,American Fork/Lindon,,,,,,NULL
+6185,Eagle Mountain,,,55,,,NULL
+6186,American Fork,,,45,,28905,NULL
+6187,Lehi,,,55,,25000,NULL
+6188,Mapleton,,,,,,NULL
+6189,Lindon,,,,,,NULL
+6190,Pleasant Grove,,,40,,,NULL
+6192,Pleasant Grove,,,45,,,NULL
+6193,Pleasant Grove,,,45,,,NULL
+6194,Highland,,,40,,11000,NULL
+6195,Mapleton,,,,,,NULL
+6196,Lehi,,,55,,,NULL
+6197,Pleasant Grove,,,,,,NULL
+6198,Saratoga Springs,,,45,,,NULL
+6199,Lehi,,,50,,,NULL
+6200,Saratoga Springs,,,50,,,NULL
+6201,Saratoga Springs,,,50,,,NULL
+6202,Saratoga Springs,,,50,,,NULL
+6203,Saratoga Springs,,,,,,NULL
+6204,Saratoga Springs,,,50,,,NULL
+6205,Saratoga Springs,,,50,,,NULL
+6206,Saratoga Springs,,,50,,,NULL
+6207,Lehi,x,,50,,,NULL
+6208,Lehi,,,45,,,NULL
+6209,Lehi,,,35,,,NULL
+6210,Lehi,x,,35,,,NULL
+6211,Saratoga Springs,x,,45,,,NULL
+6213,Vineyard,,,,,,NULL
+6214,Saratoga Springs,,,,,,NULL
+6215,Saratoga Springs,,,,,,NULL
+6218,Heber,,,30,,,NULL
+6219,Heber/Wasatch County,,,50,,,NULL
+6220,Midway,,,35,,,NULL
+6221,Midway,,,,no,,NULL
+6222,Daniel/Wasatch County,,,60,no,,NULL
+6223,Spanish Fork,,,,no,,NULL
+6224,Springville/Utah County,,,,no,,NULL
+6225,Vineyard,,,,no,,NULL
+6226,Payson,,,35,no,,NULL
+6227,Salem,,,40,no,,NULL
+6228,Salem,,,55,,,NULL
+6229,Salem/Utah County,,,,,,NULL
+6230,Spanish Fork,,,45,,,NULL
+6231,Spanish Fork/Utah County/Salem,,,55,no,,NULL
+6232,Spanish Fork/Utah County,,,45,no,,NULL
+6233,Spanish Fork/Utah County,,,45,,,NULL
+6234,Spanish Fork,,,40,,,NULL
+6235,Spanish Fork,,,60,,13000,NULL
+6236,Spanish Fork,,,,,,NULL
+6237,American Fork,,,,,,NULL
+6238,American Fork,,,,,,NULL
+6239,Eagle Mountain,,,,no,,NULL
+6240,Highland,,,,no,,NULL
+6241,Highland,,,45,yes,22000,NULL
+6242,Springville,,,,no,16000,NULL
+6243,Heber,,,,no,,NULL
+6244,Duchesne County,,,,no,,NULL
+6245,Naples,,,45,no,16000,NULL
+6249,Roosevelt,,,,no,,NULL
+6250,Roosevelt,,,35,no,18735,NULL
+6251,Roosevelt,,,30,no,13055,NULL
+6252,Roosevelt,,,35,no,18735,NULL
+6253,Roosevelt,,,40,no,13055,NULL
+6254,Uintah County,,,50,no,12575,NULL
+6255,Roosevelt,,,35,no,7570,NULL
+6256,Roosevelt,,,55,no,13055,NULL
+6257,Roosevelt,,,35,no,,NULL
+6258,Ballard/Uintah County,,,50,no,,NULL
+6259,Uintah County,,,60,no,,NULL
+6260,Nephi,,,35,no,11115,NULL
+6264,Spanish Fork,,,,no,,NULL
+6265,Saratoga Springs,,,,no,,NULL
+6266,Saratoga Springs,,,,no,,NULL
+6301,Orem,,,45,no,31560,NULL
+6302,Orem,,,40,yes,31560,NULL
+6303,Orem,,,40,no,44645,NULL
+6304,Orem,,,40,no,34770,NULL
+6305,Orem,,,45,no,34770,NULL
+6306,Orem,,,45,no,30780,NULL
+6307,Orem,,,45,,30780,NULL
+6308,Orem,,,40,,44645,NULL
+6309,Orem,,,45,,16980,NULL
+6310,Orem,,,40,,25010,NULL
+6311,Orem,,,40,no,47840,NULL
+6312,Orem,,,45,,11645,NULL
+6313,Orem,,,40,,47840,NULL
+6314,Orem,,,40,,47840,NULL
+6315,Orem,,,45,,11645,NULL
+6316,Orem,,,45,,20855,NULL
+6317,Orem,,,45,no,45300,NULL
+6318,Orem,,,45,no,45300,NULL
+6319,Orem,,,45,no,44830,NULL
+6320,Orem,,,45,no,44830,NULL
+6321,Orem,,,45,no,49760,NULL
+6322,Orem,,,45,no,49760,NULL
+6323,Orem,,,40,no,39430,NULL
+6324,Orem,,,45,no,49760,NULL
+6325,Orem,,,45,no,28765,NULL
+6326,Orem,,,40,no,40820,NULL
+6327,Orem,,,40,no,40820,NULL
+6328,Orem,,,45,no,38945,NULL
+6329,Orem,,,45,no,,NULL
+6330,Orem,,,45,no,,NULL
+6331,Orem,,,,yes,,NULL
+6333,Orem,,,,no,,NULL
+6375,Orem,,,25,no,16000,NULL
+6387,Orem,,,35,no,,NULL
+6388,Orem,,,35,no,,NULL
+6389,Orem,,,40,no,38760,NULL
+6390,Orem,,,50,no,16400,NULL
+6391,Orem,,,40,no,15345,NULL
+6392,Orem,,,40,no,15435,NULL
+6393,Orem,,,40,no,39780,NULL
+6394,Orem,,,40,no,39780,NULL
+6395,Orem,,,50,no,16980,NULL
+6397,Orem,,,35,yes,31560,NULL
+6398,Orem,,,45,no,31560,NULL
+6399,Orem,,,45,no,31560,NULL
+6401,Provo,,,40,no,29920,NULL
+6402,Provo,,,40,no,29920,NULL
+6403,Provo,,,40,no,29920,NULL
+6404,Provo,,,40,no,29920,NULL
+6405,Provo,,,35,no,28940,NULL
+6406,Provo,,,35,no,24045,NULL
+6407,Provo,,,35,no,29855,NULL
+6408,Provo,,,35,,29855,NULL
+6409,Provo,,,35,,29855,NULL
+6410,Provo,,,35,no,31920,NULL
+6411,Provo,,,35,no,31920,NULL
+6412,Provo,,,35,no,38260,NULL
+6413,Provo,,,35,no,38260,NULL
+6414,Provo,,,35,no,30630,NULL
+6415,Provo,,,35,no,30630,NULL
+6416,Provo,,,45,no,29345,NULL
+6417,Provo,,,45,,37320,NULL
+6418,Provo,,,45,,30790,NULL
+6419,Provo,,,45,,30790,NULL
+6420,Provo,,,50,no,28545,NULL
+6421,Provo,,,50,no,28545,NULL
+6422,Provo,,,50,no,25535,NULL
+6423,Provo,,,50,no,25535,NULL
+6424,Provo,,,50,no,19835,NULL
+6425,Provo,,,50,no,20190,NULL
+6426,Provo,,,50,no,25535,NULL
+6427,Provo,,,35,no,,NULL
+6428,Provo,,,50,no,,NULL
+6429,Provo,,,50,no,22465,NULL
+6430,Provo,,,50,,22465,NULL
+6431,Provo,,,45,no,22465,NULL
+6432,Provo,,,35,no,13970,NULL
+6433,Provo,,,,no,,NULL
+6434,Provo,,,35,,26585,NULL
+6435,Provo,,,40,no,33325,NULL
+6436,Provo,,,50,no,33325,NULL
+6438,Provo,,,35,no,,NULL
+6439,Provo,,,35,no,,NULL
+6440,Provo,,,35,,26585,NULL
+6441,Provo,,,35,,30545,NULL
+6442,Provo,,,35,,30545,NULL
+6443,Provo,,,35,,30545,NULL
+6444,Provo,,,35,,31810,NULL
+6445,Provo,,,35,,31810,NULL
+6446,Provo,,,35,,40820,NULL
+6447,Provo,,,40,,40820,NULL
+6448,Provo,,,40,,40820,NULL
+6449,Provo,,,40,,40820,NULL
+6450,Provo,,,35,,,NULL
+6451,Provo,,,35,no,23925,NULL
+6452,Provo,,,40,no,11165,NULL
+6453,Provo,,,45,no,11165,NULL
+6454,Provo,,,35,no,,NULL
+6455,Provo,,,35,no,23925,NULL
+6456,Provo,,,35,no,29165,NULL
+6457,Provo,,,35,no,29165,NULL
+6458,Provo,,,35,no,23925,NULL
+6459,Provo/Orem,,,,no,,NULL
+6460,Provo,,,45,no,,NULL
+6461,Provo,,,45,no,,NULL
+6462,Provo,,,35,no,,NULL
+6463,Provo,,,35,no,,NULL
+6464,Provo,,,35,no,,NULL
+6465,Provo,,,35,no,,NULL
+6466,Provo,,,,no,,NULL
+6467,Provo,,,,no,,NULL
+7000,Sandy,,,40,no,,NULL
+7001,Sandy,,,40,no,,NULL
+7002,Holladay,,,50,no,11780,NULL
+7003,Holladay/Cottonwood Heights,,,50,no,19255,NULL
+7004,Murray,,,40,no,22765,NULL
+7005,Midvale,,x,45,no,32150,NULL
+7006,Midvale,,x,45,no,32150,NULL
+7007,Midvale,,,45,no,34235,NULL
+7009,Sandy,,,40,no,21460,NULL
+7010,West Jordan,,,40,no,29485,NULL
+7011,West Jordan,x,,40,no,29485,NULL
+7012,West Jordan,x,,40,no,28640,NULL
+7014,Sandy,,,40,no,37975,NULL
+7015,Sandy,,,50,no,41470,NULL
+7016,West Jordan,,,40,no,41980,NULL
+7017,Sandy,,,40,,31265,NULL
+7018,Sandy,,,45,no,31265,NULL
+7019,Sandy,,,45,,28385,NULL
+7020,Sandy,,,45,no,15860,NULL
+7021,South Jordan,,,40,no,35580,NULL
+7022,South Jordan,x,,40,no,35580,NULL
+7023,Riverton,,,50,no,24005,NULL
+7024,Midvale,,,50,no,22565,NULL
+7025,Salt Lake City,,,35,no,23185,NULL
+7028,Salt Lake City,,,40,no,14335,NULL
+7029,Holladay/Cottonwood Heights,,,40,no,11780,NULL
+7030,Salt Lake City,,,40,no,14335,NULL
+7031,Murray,,,35,,19750,NULL
+7032,Midvale,,,35,no,19750,NULL
+7033,Murray/Holladay,,,40,no,49815,NULL
+7034,Cottonwood Heights,,,40,no,49815,NULL
+7035,Taylorsville,,,40,no,39655,NULL
+7036,Salt Lake City,,,50,no,17855,NULL
+7037,Salt Lake City,,,50,no,17855,NULL
+7039,Salt Lake City,,,25,no,15395,NULL
+7040,Salt Lake City,,,25,no,,NULL
+7041,Salt Lake City,,,25,no,11625,NULL
+7042,Salt Lake City,,,25,yes,11625,NULL
+7043,Salt Lake City,,,35,yes,30960,NULL
+7044,Salt Lake City,,,35,no,16750,NULL
+7045,Salt Lake City,,,35,yes,15415,NULL
+7046,Salt Lake City,,,35,no,16680,NULL
+7047,Salt Lake City,,,35,no,15415,NULL
+7048,West Valley City,,,60,yes,11390,NULL
+7049,West Jordan,,,55,no,13315,NULL
+7050,West Valley City,,,45,no,,NULL
+7051,West Valley City,,x,45,no,29035,NULL
+7052,Salt Lake City,,x,55,no,30645,NULL
+7053,Salt Lake City,,,50,no,30645,NULL
+7054,West Jordan,,,55,no,3060,NULL
+7055,Salt Lake City/West Valley City,,,50,no,35800,NULL
+7056,West Valley City,,,50,no,44035,NULL
+7057,West Valley City,,,50,no,44035,NULL
+7058,West Valley City,,,50,no,39645,NULL
+7059,West Valley City,,,50,no,49230,NULL
+7060,West Valley City,,,50,no,50770,NULL
+7061,West Valley City,,,50,no,50770,NULL
+7062,West Valley City/Taylorsville,,,50,no,55980,NULL
+7063,Taylorsville,,,50,no,55980,NULL
+7064,Taylorsville/West Jordan,x,,55,no,55905,NULL
+7065,West Jordan,x,,55,No,55905,NULL
+7066,West Jordan,x,,55,No,51790,NULL
+7067,West Jordan,x,,55,NO,48380,NULL
+7068,Salt Lake City,x,,40,NO,11240,NULL
+7069,Salt Lake City,x,,40,No,27420,NULL
+7070,South Salt Lake,x,,35,NO,44425,NULL
+7071,West Jordan,x,,55,NO,7405,NULL
+7072,Murray,x,,40,No,39435,NULL
+7073,South Salt Lake,x,,35,No,33665,NULL
+7074,Murray,x,,40,No,32415,NULL
+7075,Midvale,,,45,No,34235,NULL
+7076,Salt Lake City,,x,40,No,45100,NULL
+7077,Sandy,,,40,No,37975,NULL
+7078,Draper/Bluffdale,,,40,No,3720,NULL
+7079,Sandy/South Jordan,,,45,No,39515,NULL
+7080,West Valley City,,x,40,no,22305,NULL
+7081,Draper,,,40,no,28310,NULL
+7082,Draper,,,40,no,27355,NULL
+7083,Salt Lake City,,,45,no,18540,NULL
+7084,Salt Lake City,,,40,yes,19520,NULL
+7085,Salt Lake City,,,40,no,19520,NULL
+7086,Salt Lake City,,,45,no,21795,NULL
+7087,Salt Lake City,,,40,no,21795,NULL
+7088,Salt Lake City,,,40,no,21795,NULL
+7089,Salt Lake City,,,40,yes,19725,NULL
+7090,Salt Lake City,,,45,no,19725,NULL
+7091,Salt Lake City,,,40,no,19725,NULL
+7092,Salt Lake City,,,45,yes,19725,NULL
+7093,Salt Lake City,,,45,no,29055,NULL
+7094,Salt Lake City,,x,45,no,29055,NULL
+7095,Salt Lake City,,,45,no,29055,NULL
+7096,Salt Lake City,,,45,no,29055,NULL
+7097,Salt Lake City/West Valley City,,,40,yes,25665,NULL
+7098,West Valley City,,,40,no,22305,NULL
+7099,West Valley City,,,40,no,22305,NULL
+7100,West Valley City,,,40,yes,22305,NULL
+7101,West Valley City,,,40,yes,22305,NULL
+7102,West Valley City,,,45,no,30260,NULL
+7103,West Valley City,,,45,no,30260,NULL
+7104,West Valley City/Taylorsville,,,40,no,44395,NULL
+7105,Taylorsville,,,40,no,44395,NULL
+7106,Taylorsville,,,40,no,44395,NULL
+7107,Taylorsville,,,40,no,39655,NULL
+7108,Taylorsville,,,40,no,33905,NULL
+7109,Taylorsville,,,40,no,33905,NULL
+7110,Taylorsville,,,45,no,59525,NULL
+7111,Taylorsville,,,40,no,59525,NULL
+7112,Taylorsville,,,40,no,59525,NULL
+7113,Taylorsville,,,40,no,64035,NULL
+7114,Taylorsville,,,45,no,64035,NULL
+7115,West Jordan,,,45,no,37605,NULL
+7116,West Jordan,,,45,no,35770,NULL
+7117,West Jordan,,,45,no,41980,NULL
+7118,South Jordan,,,45,no,35580,NULL
+7119,Riverton,,,45,no,25690,NULL
+7120,Salt Lake City,,,45,no,20005,NULL
+7121,Salt Lake City,,,45,no,9225,NULL
+7122,Salt Lake City,,,40,no,17510,NULL
+7123,Salt Lake City,,,40,no,17510,NULL
+7124,Salt Lake City,,,40,no,17510,NULL
+7125,Salt Lake City,,,40,no,22155,NULL
+7126,Salt Lake City,,,35,no,16690,NULL
+7127,Salt Lake City,,,30,no,16690,NULL
+7128,Salt Lake City,,,30,no,16690,NULL
+7129,Salt Lake City,,,30,no,16690,NULL
+7130,Salt Lake City,,,40,no,32335,NULL
+7131,Salt Lake City,,,30,no,2767,NULL
+7132,Salt Lake City,,,30,no,28245,NULL
+7133,Salt Lake City,,,40,no,33070,NULL
+7134,Salt Lake City,,,30,no,25000,NULL
+7135,Salt Lake City,,,30,no,25000,NULL
+7136,Salt Lake City,,,30,no,25000,NULL
+7137,Salt Lake City,,,30,yes,22825,NULL
+7138,Salt Lake City,,,30,no,22175,NULL
+7139,Salt Lake City,,,30,no,20465,NULL
+7140,Salt Lake City,,,30,no,20465,NULL
+7141,Salt Lake City,,,30,no,20465,NULL
+7142,Salt Lake City,,,30,no,24240,NULL
+7143,Salt Lake City,,,30,no,22275,NULL
+7144,Salt Lake City,,,30,no,32625,NULL
+7145,Salt Lake City,,,30,no,21000,NULL
+7146,Salt Lake City,,,30,no,21000,NULL
+7147,Salt Lake City,,,30,no,21830,NULL
+7148,Salt Lake City,,,35,no,25050,NULL
+7149,Salt Lake City,,,35,no,26395,NULL
+7150,Salt Lake City,,,35,no,26395,NULL
+7151,Salt Lake City/South Salt Lake,,,35,no,33665,NULL
+7152,South Salt Lake,,,35,no,33665,NULL
+7153,South Salt Lake,,,35,no,33665,NULL
+7154,South Salt Lake,,,35,no,32555,NULL
+7155,South Salt Lake,,,35,no,37490,NULL
+7156,South Salt Lake/Millcreek,,,40,yes,28725,NULL
+7157,Murray,,,40,no,39590,NULL
+7158,Murray,,,40,no,34885,NULL
+7159,Murray,,,40,no,34885,NULL
+7160,Murray,,,40,no,32625,NULL
+7161,Murray,,,40,no,32625,NULL
+7162,Murray,,,40,no,32625,NULL
+7163,Murray,,,40,no,32675,NULL
+7164,Murray,,,40,no,32675,NULL
+7165,Murray,,,45,no,32675,NULL
+7166,Murray,,,45,no,26635,NULL
+7167,Murray/Midvale,,,45,no,26535,NULL
+7168,Midvale,,,45,no,32150,NULL
+7169,Midvale,,,40,no,7169,NULL
+7170,Midvale,,,35,no,29265,NULL
+7171,Midvale,,,35,no,29365,NULL
+7172,Midvale,,,35,no,21670,NULL
+7173,Sandy,,,45,no,21220,NULL
+7174,Sandy,,,40,no,36785,NULL
+7175,Sandy,,,40,no,28085,NULL
+7176,Sandy,,,40,no,28085,NULL
+7177,Sandy,,,40,no,28085,NULL
+7178,Sandy,,,40,no,40680,NULL
+7179,Sandy,,,45,yes,25660,NULL
+7180,Salt Lake City,,,40,no,37950,NULL
+7181,Salt Lake City,,,40,no,37950,NULL
+7182,Salt Lake City,,,40,no,37950,NULL
+7183,Salt Lake City,,,40,no,37950,NULL
+7184,Salt Lake City,,,40,no,37950,NULL
+7185,Salt Lake City,,,40,no,40420,NULL
+7186,Salt Lake City,,,40,no,40420,NULL
+7187,Salt Lake City,,,40,no,45100,NULL
+7188,Salt Lake City,,,40,no,45100,NULL
+7189,Salt Lake City,,,40,no,31210,NULL
+7190,Salt Lake City,,,40,no,35590,NULL
+7191,South Salt Lake,,,45,no,35590,NULL
+7192,South Salt Lake/Millcreek,,,45,no,34215,NULL
+7193,Murray/Millcreek,,,45,no,34210,NULL
+7194,Sandy,,,40,no,25640,NULL
+7195,Sandy,,,40,no,24685,NULL
+7196,Sandy,,,40,no,33505,NULL
+7197,Sandy,,,40,no,33505,NULL
+7198,Sandy,,,40,no,26945,NULL
+7199,Sandy,,,40,no,23975,NULL
+7200,Sandy,,,40,no,26380,NULL
+7201,Sandy,,,40,no,13065,NULL
+7202,Draper,,,40,no,26525,NULL
+7203,Murray,,,45,no,24520,NULL
+7204,Murray,,,45,no,24520,NULL
+7205,Murray,,,45,no,25355,NULL
+7206,Murray,,,45,no,25355,NULL
+7207,Midvale,,,45,no,25640,NULL
+7208,Midvale,,,40,no,25640,NULL
+7209,Midvale,,,40,no,25640,NULL
+7210,Murray,,,45,no,24230,NULL
+7211,Murray,,,45,no,24520,NULL
+7212,Salt Lake County/Holladay/Millcreek,,,50,no,20390,NULL
+7213,Murray/Holladay,,,50,no,25940,NULL
+7214,Murray/Holladay,,,50,,36820,NULL
+7215,Murray/Holladay,,,40,,49815,NULL
+7216,Salt Lake City,,,40,no,22785,NULL
+7217,Salt Lake City,,,40,,31880,NULL
+7218,Salt Lake City,,,40,,31880,NULL
+7219,Salt Lake City,,,40,no,44095,NULL
+7220,Salt Lake City,,,40,,41395,NULL
+7221,Salt Lake City,x,,40,,41620,NULL
+7222,Salt Lake City,,,40,,41620,NULL
+7223,Salt Lake City,x,,40,no,41620,NULL
+7224,Salt Lake City,,,35,no,21790,NULL
+7225,South Jordan,x,,40,no,12820,NULL
+7226,South Jordan,x,,40,no,12820,NULL
+7227,South Jordan,x,,40,no,18685,NULL
+7228,South Jordan,,,40,no,18685,NULL
+7229,West Jordan,,x,45,no,34650,NULL
+7230,Salt Lake City,,,45,no,50120,NULL
+7231,Salt Lake City,,,45,no,50120,NULL
+7232,West Jordan,,,45,no,,NULL
+7233,Salt Lake City,x,,45,no,,NULL
+7234,West Jordan,,,45,no,34650,NULL
+7235,West Valley City,,,60,no,,NULL
+7236,West Valley City,,,40,no,,NULL
+7237,Murray/Holladay,,,40,no,49815,NULL
+7238,South Jordan,,,40,,,NULL
+7239,South Jordan,,,40,,,NULL
+7240,Salt Lake City,,,35,,,NULL
+7241,Salt Lake City,,,30,,31725,NULL
+7242,Salt Lake City,,,30,no,27670,NULL
+7243,Salt Lake City,,,30,no,27670,NULL
+7244,Salt Lake City,,,35,no,20420,NULL
+7245,Salt Lake City,,,35,no,20420,NULL
+7246,Salt Lake City,,,35,no,20420,NULL
+7247,Salt Lake City,,,35,no,20420,NULL
+7248,Salt Lake City,,,35,no,20420,NULL
+7249,Salt Lake City,,,35,no,23640,NULL
+7250,Salt Lake City,,,35,no,23640,NULL
+7251,Salt Lake City,,,40,,28245,NULL
+7252,Salt Lake City,,,30,no,22275,NULL
+7253,Salt Lake City,,,35,no,20770,NULL
+7254,Salt Lake City,,,40,no,33070,NULL
+7255,Salt Lake City,,,30,no,32625,NULL
+7256,Taylorsville,,,45,no,,NULL
+7257,West Valley City,,,45,no,,NULL
+7258,Salt Lake City,,,45,no,,NULL
+7259,Salt Lake City,,,45,no,,NULL
+7260,Taylorsville,,,25,no,5785,NULL
+7261,Bluffdale,,,,no,,NULL
+7262,Bluffdale,,,,no,,NULL
+7263,Bluffdale,,,,no,,NULL
+7266,Salt Lake City,,,35,no,10590,NULL
+7267,Salt Lake City/West Valley City,,,35,no,8000,NULL
+7268,West Valley City,,,35,no,15810,NULL
+7269,Salt Lake County,,,40,no,16125,NULL
+7270,Salt Lake City/South Salt Lake,,,45,no,9525,NULL
+7271,Salt Lake City/South Salt Lake,,,40,no,21805,NULL
+7272,Salt Lake City/South Salt Lake,,,35,no,21805,NULL
+7273,Salt Lake City/South Salt Lake,,,35,no,21805,NULL
+7274,Salt Lake City,,,35,no,,NULL
+7275,Salt Lake County,,,40,no,13920,NULL
+7276,Salt Lake County/West Valley City,,,40,no,14910,NULL
+7277,West Valley City,,,45,no,14910,NULL
+7278,West Valley City,,,45,no,26915,NULL
+7279,West Valley City,,,45,no,26915,NULL
+7280,West Valley City,,,40,no,25450,NULL
+7281,West Valley City,,,40,no,25450,NULL
+7282,West Valley City,,,40,no,33910,NULL
+7283,West Valley City,,,40,no,39295,NULL
+7284,West Valley City,,,40,no,34785,NULL
+7285,West Valley City,,,40,no,35910,NULL
+7286,West Valley City,,,40,no,35910,NULL
+7287,West Valley City,,,40,no,36820,NULL
+7288,West Valley City,,,40,no,36820,NULL
+7289,West Valley City,,,40,no,29180,NULL
+7290,West Valley City,,,40,no,29180,NULL
+7291,South Salt Lake,,,45,no,30280,NULL
+7292,South Salt Lake,,,45,no,30280,NULL
+7293,South Salt Lake,,,35,no,30280,NULL
+7294,South Salt Lake,,,35,no,44425,NULL
+7295,South Salt Lake,,,35,no,37490,NULL
+7296,South Salt Lake,,,35,no,37490,NULL
+7297,South Salt Lake,,,35,no,29485,NULL
+7298,South Salt Lake,,,35,no,29485,NULL
+7299,Millcreek,,,35,no,23380,NULL
+7300,Salt Lake City/Millcreek,,,35,no,23250,NULL
+7301,Salt Lake City/Millcreek,,,35,no,22235,NULL
+7302,Millcreek,,,35,no,22235,NULL
+7303,Millcreek,,,35,no,17330,NULL
+7304,Millcreek,,,40,yes,19035,NULL
+7305,Millcreek,,,40,no,21605,NULL
+7306,Millcreek,,,40,no,21605,NULL
+7307,Millcreek,,,40,no,21605,NULL
+7308,Millcreek,,,40,no,21605,NULL
+7309,Millcreek,,,40,no,21605,NULL
+7310,Millcreek,,,40,no,21605,NULL
+7311,Taylorsville,,,40,no,39655,NULL
+7312,Taylorsville,,,50,no,29500,NULL
+7313,Taylorsville,,,50,no,36065,NULL
+7314,Murray,,,40,no,36065,NULL
+7315,Murray,,,40,no,39435,NULL
+7316,Murray,,,40,no,39590,NULL
+7317,Murray/Millcreek,,,40,no,33975,NULL
+7318,Millcreek,,,40,no,25570,NULL
+7319,Millcreek,,,40,no,25570,NULL
+7320,Millcreek,x,,40,no,25570,NULL
+7321,Holladay/Millcreek,,,40,,19660,NULL
+7322,Holladay,,,40,no,11690,NULL
+7323,Holladay,,,40,,12270,NULL
+7324,Holladay/Salt Lake County,,,40,,14270,NULL
+7325,West Valley City/Salt Lake County,,,45,no,28815,NULL
+7326,Salt Lake County,,,40,no,15385,NULL
+7327,Salt Lake County,,,40,no,15385,NULL
+7328,Salt Lake County/Taylorsville,,,45,no,34935,NULL
+7329,Taylorsville,,,45,no,38320,NULL
+7330,Taylorsville,,,45,yes,38320,NULL
+7331,Taylorsville,,,45,no,39195,NULL
+7332,Taylorsville,,,45,no,39195,NULL
+7333,Taylorsville,,,45,no,39195,NULL
+7334,Taylorsville/Murray,,,45,no,26090,NULL
+7335,Murray,,,40,no,32415,NULL
+7336,Murray,,,40,no,32415,NULL
+7337,Murray,,,40,yes,25015,NULL
+7338,Murray,,,45,no,24520,NULL
+7339,Draper,,,40,no,27355,NULL
+7340,Riverton,,,40,yes,21770,NULL
+7341,South Salt Lake,,,40,yes,13445,NULL
+7342,Salt Lake City,,,40,yes,,NULL
+7343,Draper,,,40,no,27355,NULL
+7344,Bluffdale/Herriman,,,55,no,,NULL
+7345,Draper,,,25,no,,NULL
+7346,Draper,,,40,no,28310,NULL
+7347,Taylorsville/Murray,,,50,no,26090,NULL
+7348,Murray,,,40,no,25015,NULL
+7349,Draper,,,40,no,23590,NULL
+7350,Draper,,,45,no,24005,NULL
+7351,Sandy/Draper,,,45,no,26340,NULL
+7352,Sandy,,,40,no,28085,NULL
+7353,Sandy,,,45,no,25660,NULL
+7354,West Jordan,,,40,no,27500,NULL
+7355,Draper,,,40,no,17065,NULL
+7356,Draper,,,40,no,17065,NULL
+7357,Draper,,,40,no,45745,NULL
+7359,Riverton/Bluffdale,,,60,no,45745,NULL
+7360,Riverton/Bluffdale,,,60,yes,37035,NULL
+7361,Riverton,,,60,no,37035,NULL
+7362,Riverton,,,60,,35145,NULL
+7363,South Jordan,,,60,no,42325,NULL
+7364,South Jordan,,,60,no,42325,NULL
+7365,South Jordan,,,60,no,48380,NULL
+7366,Salt Lake City,,,40,no,31725,NULL
+7367,Salt Lake City,,,40,no,32335,NULL
+7368,Salt Lake City,,,40,no,42695,NULL
+7369,Salt Lake City,,,40,no,31725,NULL
+7370,Salt Lake City,,,40,no,32335,NULL
+7371,Salt Lake City,,,40,no,41620,NULL
+7372,Salt Lake City,,,40,no,12315,NULL
+7373,Riverton,,,40,no,25690,NULL
+7374,Riverton,,,40,,25690,NULL
+7375,Riverton,,,40,,21770,NULL
+7376,Salt Lake City,,,45,,18425,NULL
+7377,West Valley City,,,45,no,41325,NULL
+7378,West Valley City,,,45,no,41325,NULL
+7379,West Valley City,,,45,no,41325,NULL
+7380,West Valley City,,,45,no,41325,NULL
+7381,West Valley City,,,45,no,41325,NULL
+7382,West Valley City,,,45,no,29035,NULL
+7383,Salt Lake County,,,45,no,,NULL
+7384,Salt Lake County,,,30,no,10095,NULL
+7385,Salt Lake County,x,,40,no,8000,NULL
+7386,West Jordan,,,50,,11800,NULL
+7389,Draper,x,,40,no,3720,NULL
+7390,Draper,,,45,no,13415,NULL
+7391,Bluffdale,,,45,no,27930,NULL
+7392,Bluffdale/Herriman,x,,45,,18635,NULL
+7393,Salt Lake City,,,50,,17855,NULL
+7394,Salt Lake City,,,45,,18425,NULL
+7395,Salt Lake City,,,45,,18425,NULL
+7396,West Valley City,,,45,no,6825,NULL
+7397,Riverton,,,40,no,,NULL
+7398,Sandy,,,25,no,,NULL
+7399,Sandy/Midvale,,,40,no,,NULL
+7400,Taylorsville,,,45,no,26090,NULL
+7401,Murray,,,35,no,32625,NULL
+7402,South Jordan,,,45,no,24525,NULL
+7403,West Jordan,,,40,,41980,NULL
+7404,South Jordan,,,45,,25100,NULL
+7405,Riverton,,,45,,17415,NULL
+7406,Riverton,,,45,,17415,NULL
+7407,South Jordan,,,45,,22285,NULL
+7408,South Jordan,,,45,,22285,NULL
+7409,West Jordan/South Jordan,,,45,,,NULL
+7410,Salt Lake City,,,40,,19520,NULL
+7411,Riverton,,,40,,12330,NULL
+7412,Riverton,,,40,,12330,NULL
+7413,Bluffdale,,,45,,,NULL
+7414,Riverton,,,45,,,NULL
+7415,Riverton,,,45,,,NULL
+7416,Riverton,,,,,,NULL
+7417,West Jordan,,,40,,38860,NULL
+7418,West Jordan,,,40,,38860,NULL
+7419,West Jordan,,,40,,34740,NULL
+7420,West Jordan,,,40,,34740,NULL
+7421,West Jordan,,,40,,18990,NULL
+7422,West Jordan,,,40,,18990,NULL
+7423,West Jordan,,,35,,11800,NULL
+7424,Bluffdale,,,45,,24000,NULL
+7426,Murray,,,40,,41000,NULL
+7427,Draper,,,,,,NULL
+7433,West Valley City,,,,,,NULL
+7434,West Jordan,,,,,,NULL
+7464,Salt Lake County,,,40,,,NULL
+7465,Salt Lake City,,,35,,,NULL
+7466,Salt Lake City,,,45,,,NULL
+7474,Salt Lake City,,,30,,,NULL
+7475,Salt Lake City,,,30,no,,NULL
+7478,Murray,,,45,no,,NULL
+7482,West Valley City,,,40,no,,NULL
+7485,Salt Lake County,x,,35,no,,NULL
+7486,Salt Lake County,x,,45,no,,NULL
+7487,South Salt Lake,x,,45,no,,NULL
+7490,Cottonwood Heights,x,,40,no,93000,NULL
+7491,Millcreek,x,,35,no,16000,NULL
+7492,Salt Lake City,x,,,no,,NULL
+7493,Salt Lake City,x,,,no,,NULL
+7494,Salt Lake City,x,,30,no,31000,NULL
+7495,Salt Lake City,x,,30,no,31000,NULL
+7496,Salt Lake City,x,,,no,,NULL
+7501,Salt Lake City,,,50,no,20005,NULL
+7502,West Valley City,,,45,no,27955,NULL
+7503,Salt Lake City,,,40,no,44095,NULL
+7507,Herriman,,,40,no,5955,NULL
+7508,Herriman,,,40,yes,5955,NULL
+7509,Herriman,,,40,yes,5780,NULL
+7510,Herriman,,,40,no,5780,NULL
+7511,Riverton,,,55,no,27155,NULL
+7512,Riverton/Herriman,,,55,no,27115,NULL
+7513,Riverton/Herriman,,,55,no,23545,NULL
+7514,Riverton/Herriman,,,55,no,23545,NULL
+7515,Herriman,,,55,no,13575,NULL
+7516,Herriman,,,55,,13575,NULL
+7517,South Jordan,,,55,,13575,NULL
+7518,South Jordan,,,55,,13575,NULL
+7519,West Jordan,,,55,,11475,NULL
+7520,West Jordan,,,55,,11475,NULL
+7521,West Jordan,,,55,,12095,NULL
+7522,West Jordan,,,55,,12095,NULL
+7523,West Jordan,,,55,,14635,NULL
+7524,West Jordan,,,55,,14635,NULL
+7525,West Valley City,,,55,,14635,NULL
+7526,West Valley City,,,55,,14635,NULL
+7527,West Valley City,x,,35,,11415,NULL
+7528,West Valley City,x,,35,,11415,NULL
+7529,Herriman,,,55,,,NULL
+7530,Herriman,,,,,,NULL
+7531,Riverton,x,,55,,,NULL
+7532,South Jordan,x,,55,,,NULL
+7533,South Jordan,x,,55,,,NULL
+7534,South Jordan,,,55,,,NULL
+7535,South Jordan,x,,,no,,NULL
+7537,West Valley City,x,,65,no,,NULL
+7538,West Valley City,,,40,,,NULL
+7539,West Valley City,,,65,no,,NULL
+7541,West Valley City,,,25,no,,NULL
+7542,West Valley City,,,65,no,,NULL
+7543,Salt Lake City,,,65,no,,NULL
+7544,Salt Lake City,,,65,no,,NULL
+7571,South Salt Lake,,,35,,,NULL
+7573,West Jordan,,,45,no,,NULL
+7598,Salt Lake County,,,,no,,NULL
+7601,Sandy,,,45,no,28385,NULL
+7602,Sandy,,,45,no,15860,NULL
+7603,Salt Lake County,,,60,no,,NULL
+7604,Salt Lake County/West Valley City,,,50,no,39840,NULL
+7605,Taylorsville,,,40,no,34175,NULL
+7606,South Jordan,,,40,no,27865,NULL
+7607,South Jordan,,,40,no,27865,NULL
+7608,Taylorsville,,,40,no,39655,NULL
+7609,Bluffdale,,,25,no,,NULL
+7610,Salt Lake County,,,40,no,15385,NULL
+7611,South Jordan,,,45,yes,39515,NULL
+7612,South Jordan,,,45,no,39515,NULL
+7613,South Jordan,,,45,no,39515,NULL
+7614,South Jordan,,,45,no,39515,NULL
+7615,Sandy/Draper,,,40,no,26340,NULL
+7616,Draper,,x,45,no,10350,NULL
+7617,Salt Lake City/South Salt Lake,,,40,no,9525,NULL
+7618,Salt Lake City,,,40,no,31725,NULL
+7619,Salt Lake City,,,40,no,12315,NULL
+7620,South Jordan,,,45,no,27865,NULL
+7621,Sandy,,,40,no,36785,NULL
+7622,South Jordan,,,45,no,27865,NULL
+7623,South Jordan,,,45,no,27865,NULL
+7624,South Jordan,,,45,no,18945,NULL
+7625,South Jordan,,,45,no,18945,NULL
+7626,South Jordan/Draper,,,45,no,19100,NULL
+7627,South Jordan/Draper,,,45,no,19110,NULL
+7628,Salt Lake County,,,55,no,24305,NULL
+7629,South Jordan/Sandy/Draper,,,40,no,19110,NULL
+7630,Salt Lake County,,,55,no,24305,NULL
+7631,Salt Lake County,,,45,no,12715,NULL
+7632,Salt Lake County,,,35,no,12715,NULL
+7633,Salt Lake City,,,30,no,12240,NULL
+7634,Salt Lake County/West Valley City/West Jordan,,,45,no,17220,NULL
+7635,Salt Lake City,,,40,,42695,NULL
+7636,West Jordan,,,35,no,24995,NULL
+7637,Salt Lake City/South Salt Lake,,,40,,9525,NULL
+7638,South Salt Lake,,,35,no,2938,NULL
+7639,Salt Lake County/West Valley City,,,60,no,16125,NULL
+7640,Sandy,,,40,,28085,NULL
+7641,South Salt Lake,,,35,no,22965,NULL
+7642,Salt Lake City,,,35,no,24320,NULL
+7643,Sandy,,,40,no,21020,NULL
+7644,Midvale,,,50,no,22565,NULL
+7645,Summit County,,,65,no,25499,NULL
+7646,West Valley City,,,25,no,,NULL
+7647,Salt Lake City,,,30,no,15440,NULL
+7648,Salt Lake City,,,30,no,,NULL
+7649,South Jordan,,,,no,,NULL
+7656,Sandy,,,40,no,23280,NULL
+7657,Murray,,,40,no,27270,NULL
+7669,Salt Lake City,,,,no,,NULL
+7701,Summit County,,,45,no,29315,NULL
+7702,Summit County,,,45,no,29315,NULL
+7703,Summit County,,,45,no,29315,NULL
+7704,Summit County,,,55,no,29315,NULL
+7705,Summit County,,,45,no,29315,NULL
+7706,Summit County,,,45,,29315,NULL
+7707,Summit County,,,45,no,27715,NULL
+7708,Park City,,,40,,34865,NULL
+7709,Park City,,,40,no,34865,NULL
+7710,Park City,,,35,no,34865,NULL
+7711,Park City,,,35,no,17745,NULL
+7712,Park City,,,35,no,17745,NULL
+7713,Park City,,,35,no,22515,NULL
+7714,Park City,,,35,no,22515,NULL
+7716,Park City/Summit County,,,50,,16060,NULL
+7717,Summit County,,,45,no,16060,NULL
+7718,Summit County,,,45,no,10115,NULL
+7719,Park City,,,35,no,,NULL
+7720,Park City,,,55,no,34865,NULL
+7721,Park City/Summit County,,,50,no,,NULL
+7722,Wasatch County,,,55,no,12000,NULL
+7800,Tooele County,,,55,no,26645,NULL
+7801,Tooele County,,,60,no,25780,NULL
+7802,Tooele County,,,60,no,19010,NULL
+7803,Tooele County,,,60,,19010,NULL
+7804,Tooele County,,,60,no,19010,NULL
+7805,Tooele County,,,60,,19010,NULL
+7807,Tooele,,,,,,NULL
+7811,Tooele,,,60,,19010,NULL
+7812,Tooele,,,50,,25130,NULL
+7813,Tooele,,,40,no,25130,NULL
+7814,Tooele,,,40,no,25130,NULL
+7815,Tooele,,,35,no,26800,NULL
+7816,Tooele,,,35,no,26800,NULL
+7817,Grantsville,,,40,no,8335,NULL
+7818,Tooele,,,35,,26800,NULL
+7819,Tooele,,,35,,21175,NULL
+7821,Tooele,,,50,,3960,NULL
+7822,Tooele,,,60,,,NULL
+7824,Grantsville,,,,,,NULL
+7826,Salt Lake County,,,45,,10350,NULL
+7827,Salt Lake County,,,50,,14380,NULL
+7828,Cottonwood Heights,,,50,,14380,NULL
+7829,Cottonwood Heights,,,50,,14380,NULL
+7830,Cottonwood Heights,,,50,,19255,NULL
+7920,Kamas,,,35,,5690,NULL
+7921,Kamas,,,35,,6540,NULL
+8101,St. George,,,45,,13785,NULL
+8102,St. George,,,35,,43000,NULL
+8103,St. George,,,35,,43000,NULL
+8104,St. George,,,45,,24455,NULL
+8105,St. George,,,40,,23685,NULL
+8106,St. George,,,40,,23685,NULL
+8107,St. George,,,40,no,40340,NULL
+8108,St. George,,,40,no,43000,NULL
+8109,St. George,,,35,,43000,NULL
+8110,St. George,,,45,,22550,NULL
+8111,St. George,,,45,no,24455,NULL
+8113,St. George,,,45,no,24455,NULL
+8114,St. George,,,45,no,24455,NULL
+8115,St. George,,,45,no,24455,NULL
+8116,St. George,,,30,no,17195,NULL
+8117,St. George,,,30,no,27290,NULL
+8118,St. George,,,30,no,27290,NULL
+8119,St. George,,,30,no,27290,NULL
+8120,St. George,,,30,no,32695,NULL
+8121,St. George,,,30,no,39540,NULL
+8123,St. George,,,30,no,39540,NULL
+8124,St. George,,,30,no,33675,NULL
+8126,Washington,,,35,no,16935,NULL
+8131,St. George,,,35,no,1300,NULL
+8150,Hurricane,,,55,no,21410,NULL
+8151,Hurricane,,,55,no,28075,NULL
+8152,Hurricane,,,55,no,28075,NULL
+8153,Hurricane,,,55,no,28075,NULL
+8154,Hurricane,,,45,no,28075,NULL
+8155,Hurricane,,,45,no,28075,NULL
+8156,Hurricane,,,40,no,28075,NULL
+8157,Hurricane,,,30,no,28075,NULL
+8158,Hurricane,,,30,no,28075,NULL
+8160,Hurricane,x,,40,no,,NULL
+8161,Hurricane,x,,55,no,,NULL
+8162,Hurricane,,,60,no,12000,NULL
+8170,LaVerkin,,,40,no,12470,NULL
+8171,LaVerkin,,,50,no,12470,NULL
+8175,St. George,,,35,no,19225,NULL
+8201,Cedar City,,x,50,no,11025,NULL
+8202,Cedar City,,,45,no,23740,NULL
+8203,Cedar City,,,45,no,23740,NULL
+8204,Cedar City,,,45,no,19135,NULL
+8205,Cedar City,,,45,no,12460,NULL
+8206,Cedar City,,,45,,19135,NULL
+8207,Cedar City,,,45,,19135,NULL
+8208,Cedar City,,,35,no,18590,NULL
+8209,Cedar City,,,30,no,16535,NULL
+8210,Cedar City,,,30,,16535,NULL
+8211,Cedar City,,,45,no,16630,NULL
+8212,Cedar City,,,45,,11980,NULL
+8213,Cedar City,,,45,no,4540,NULL
+8215,Cedar City,,,45,no,19135,NULL
+8216,Cedar City,,,45,no,23740,NULL
+8217,Cedar City,x,,45,no,,NULL
+8218,Cedar City,,,35,no,12420,NULL
+8219,Cedar City,,,50,no,11025,NULL
+8220,Cedar City,,,35,no,15945,NULL
+8221,Cedar City,,,35,no,15945,NULL
+8222,Cedar City,,,45,no,15945,NULL
+8223,Cedar City,,,45,no,11025,NULL
+8224,Cedar City,,,45,no,11025,NULL
+8225,Cedar City,,,30,no,8790,NULL
+8226,Cedar City,,,30,no,8545,NULL
+8227,Cedar City,,,30,,8790,NULL
+8228,Cedar City,,,30,no,8545,NULL
+8229,Cedar City,,,30,no,,NULL
+8231,Cedar City,,,45,,29000,NULL
+8279,Bryce Canyon,,,35,no,2110,NULL
+8280,Beaver,,,35,no,6315,NULL
+8282,Kanab,,,35,no,8785,NULL
+8283,Kanab,,,30,no,8785,NULL
+8301,Moab,,,30,no,11370,NULL
+8302,Moab,,,30,no,15155,NULL
+8303,Moab,,,30,no,15155,NULL
+8304,Moab,,,30,no,15155,NULL
+8305,Moab,,,35,no,15155,NULL
+8306,Moab,,,45,no,15155,NULL
+8307,Moab,,,45,no,11370,NULL
+8308,Moab,,,45,,9595,NULL
+8309,Moab,,,30,,15155,NULL
+8310,Moab,x,,35,,15155,NULL
+8311,Grand County,,,65,,,NULL
+8312,Moab,,,45,,,NULL
+8313,Grand County,,,55,,7800,NULL
+8314,Moab,,,,no,,NULL
+8315,Moab,,,,no,,NULL
+8350,Monticello,,,30,,5920,NULL
+8401,Richfield,,,30,no,9010,NULL
+8402,Richfield,,,30,no,15195,NULL
+8403,Richfield,,,45,no,15195,NULL
+8404,Richfield,,,45,no,15195,NULL
+8405,Richfield,,,45,no,15195,NULL
+8406,Richfield,,,45,no,,NULL
+8407,Richfield,,,30,no,13000,NULL
+8408,Richfield,,,30,no,18000,NULL
+8450,Ephraim,,,35,no,8495,NULL
+8452,Mt. Pleasant,,,35,no,4185,NULL
+8454,Salina,,,35,no,7545,NULL
+8456,Delta,,,30,no,5135,NULL
+8500,Price,,,40,,11970,NULL
+8501,Price,,,45,,10500,NULL
+8502,Price,,,30,no,10500,NULL
+8503,Price,,,40,no,8385,NULL
+8504,Price,,,30,no,10085,NULL
+8505,Price,,,30,no,9205,NULL
+8508,Price,,,40,no,8385,NULL
+8510,Price,,,30,no,11845,NULL
+8511,Price,,,40,no,11970,NULL
+8512,Price,,,30,,11845,NULL
+8520,Wellington,,,40,no,7985,NULL
+8550,Huntington,,,35,no,6870,NULL
