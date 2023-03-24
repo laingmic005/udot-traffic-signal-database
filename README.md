@@ -4,9 +4,12 @@ The goal of this project is to determine which intersections should be attended 
 Intersections that are considered "high priority" should be maintained at all hours. An intersection is considered high
 priority if it meets at least one of the following criteria:
     
-    1. Average daily traffic (ADT) exceeds 40,000 in urban areas or 30,000 in rural areas
-    2. Consists of crossing artorials whose ADT exceeds 30,000 in urban areas or 22,000 in rural areas
-    3. The highest speed approach exceeds 50mph and the ADT exceeds 20,000 in urban areas or 15,000 for rural areas
+    1. Average daily traffic (ADT) exceeds 40,000 in urban areas or 30,000 in rural 
+       areas
+    2. Consists of crossing artorials whose ADT exceeds 30,000 in urban areas or 
+        22,000 in rural areas
+    3. The highest speed approach exceeds 50mph and the ADT exceeds 20,000 in urban 
+       areas or 15,000 for rural areas
     4. The intersection is within 1 mile of a major hospital
     5. The intersection is within 500 ft of a railroad crossing
     
